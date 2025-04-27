@@ -838,7 +838,14 @@ h6 {
   
 }
 
+.button-primary {
+  margin-top: 2rem;
+}
 
+.pricing-footer {
+  text-align: center;
+  padding-bottom: 2rem;
+}
 
 
 /* Ajuste do container para mobile */
