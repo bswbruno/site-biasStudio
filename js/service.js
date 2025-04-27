@@ -104,7 +104,7 @@ window.services = [
     description:
       "Técnica de esfoliação que remove a camada superficial da pele e pelos faciais, proporcionando uma base perfeita para maquiagem.",
     imageUrl:
-      "https://priscilacartaxodermato.com.br/wp-content/uploads/2021/05/dermaplaning-bh-1.jpg",
+      "https://image.tuasaude.com/media/article/gn/ss/dermaplaning_61952.jpg",
     duration: "45 min",
     price: "Consulte"
     //price: "R$ 150,00",
