@@ -746,6 +746,9 @@ h6 {
 }
 
 @media screen and (max-width: 580px) {
+
+  
+
   .header {
     display: flex;
     justify-content: space-between;
@@ -834,5 +837,38 @@ h6 {
   display: flex;
   
 }
+
+
+
+
+/* Ajuste do container para mobile */
+.container {
+  width: 100%;
+  height: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem; /* novo */
+  box-sizing: border-box; /* importante para o padding não quebrar o layout */
+}
+
+/* Garante que imagens e vídeos não ultrapassem a largura */
+img, video {
+  max-width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/* Garante que tabelas ou qualquer bloco muito grande não quebre o layout */
+.table-wrapper,
+.pricing-table-container,
+.map-container {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+
+
+
+
 
 }
