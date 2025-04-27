@@ -25,6 +25,8 @@
 /* Base Styles */
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
+  
 }
 
 body {
@@ -49,6 +51,7 @@ h6 {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
+  
 }
 
 
@@ -66,6 +69,7 @@ h6 {
 
 /* Header */
 .header {
+  
   position: fixed;
   top: 0;
   left: 0;
@@ -73,6 +77,8 @@ h6 {
   z-index: 50;
   transition: all 0.3s;
   padding: 1rem 0;
+  
+  
 }
 
 .header.scrolled {
@@ -86,6 +92,8 @@ h6 {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
+
 }
 
 .logo-text {
