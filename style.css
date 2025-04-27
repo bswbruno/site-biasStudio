@@ -22,12 +22,16 @@
   --neutral-900: #171717;
 }
 
+
+
 /* Base Styles */
 html {
   scroll-behavior: smooth;
   overflow-x: hidden;
   
 }
+
+
 
 body {
   font-family: "Poppins", sans-serif;
@@ -306,6 +310,7 @@ h6 {
 .about-grid {
   display: grid;
   gap: 3rem;
+  
 }
 
 .about-content h2 {
@@ -390,6 +395,7 @@ h6 {
   display: grid;
   gap: 2rem;
   margin-bottom: 3rem;
+  
 }
 
 .service-card {
