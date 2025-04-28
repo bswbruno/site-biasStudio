@@ -361,7 +361,7 @@ h6 {
 .image-decoration-2 {
   position: absolute;
   bottom: -1rem;
-  right: -1rem;
+  right: 1rem;
   width: 10rem;
   height: 10rem;
   background-color: var(--secondary-light);
@@ -506,6 +506,7 @@ h6 {
   border-radius: 0.5rem;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
     0 2px 4px -1px rgba(0, 0, 0, 0.06);
+   
 }
 
 .info-card h3 {
