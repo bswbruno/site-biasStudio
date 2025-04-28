@@ -559,9 +559,20 @@ h6 {
 }
 
 .map-container {
-  height: auto;
+  
   border-radius: 0.5rem;
   overflow: hidden;
+  margin: 0 auto;
+  align-self: center;
+  
+  
+}
+
+.map-container iframe {
+  width: 100vw;
+  max-width: 1200px;
+  border: 0; /* Remove bordas internas do iframe */
+  border-radius: 0.5rem; /* Aplica o arredondamento também no iframe */
   
 }
 
@@ -938,8 +949,8 @@ h6 {
     }
 
     .section-header h2 {
-    
-    margin:50px auto 30px auto;
+    padding: 1.5rem;
+    margin-top: 50px;
     
 }
 
@@ -957,6 +968,17 @@ h6 {
 
 .contact-cta {
   margin-bottom: 50px;
+}
+
+.map-container {
+    display: flex; 
+  justify-content: center; 
+  border-radius: 0.5rem;
+  overflow: hidden;
+  margin: 0 auto;
+  
+  max-width: 1200px; 
+  width: 100%;
 }
 
 .footer-grid {
@@ -1005,7 +1027,7 @@ h6 {
   height: 100%;
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 1rem; /* novo */
+  
   box-sizing: border-box; /* importante para o padding não quebrar o layout */
 }
 
