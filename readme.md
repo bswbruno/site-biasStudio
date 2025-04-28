@@ -9,9 +9,17 @@ Este é o site oficial do **Studio de Estética Bianca Santos**, localizado no R
 
 
 ## 🔗 Acesse
-- Instagram: [@bias.studioo](https://www.instagram.com/bias.studioo/)
-- WhatsApp: [(21) 97350-7126](https://wa.me/5521973507126)
-- E-mail: [contato@biastudio.com.br](mailto:contato@biastudio.com.br)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%40bias.studioo-%23E4405F?logo=instagram&logoColor=white&logoWidth=40)](https://www.instagram.com/bias.studioo/)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%20contato%20-%2384B153?logo=whatsapp&logoColor=white&logoWidth=40)](https://wa.me/5521973507126)
+
+[![Email](https://img.shields.io/badge/Email-contato%40biastudio.com.br-%23EA4335?logo=gmail&logoColor=white&logoWidth=40)](mailto:contato@biastudio.com.br)
+
+
+
+
+
 
 ## ✨ Funcionalidades
 - Apresentação dos serviços de estética facial e corporal.
