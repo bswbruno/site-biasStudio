@@ -634,6 +634,7 @@ h6 {
   color: var(--neutral-400);
   text-decoration: none;
   transition: color 0.3s;
+  
 }
 
 .footer ul a:hover {
@@ -644,6 +645,11 @@ h6 {
   border-top: 1px solid var(--neutral-800);
   padding-top: 2rem;
   text-align: center;
+  
+}
+
+.footer-bottom a:visited {
+  color: var(--secondary);
 }
 
 .footer-bottom p {
