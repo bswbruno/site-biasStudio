@@ -86,7 +86,7 @@ h6 {
 }
 
 .header.scrolled {
-  background-color: #c42d69;
+  background-color: #c42d69ef;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.178);
   padding: 0.5rem 0;
 }
@@ -344,6 +344,11 @@ h6 {
   z-index: -1;
 }
 
+.image-decoration img  {
+  background-position: left;
+  background-size: cover;
+}
+
 .about-image img {
   width: 100%;
   max-width: 28rem;
@@ -574,6 +579,16 @@ h6 {
   border: 0; /* Remove bordas internas do iframe */
   border-radius: 0.5rem; /* Aplica o arredondamento também no iframe */
   
+}
+
+.map-container {
+    display: flex; 
+  justify-content: center; 
+  border-radius: 0.5rem;
+  overflow: hidden;
+  margin: 0 auto;
+  max-width: 1200px; 
+  width: 100%;
 }
 
 .contact-cta {
@@ -889,6 +904,8 @@ h6 {
 }
 
 
+
+
 }
 
 
@@ -976,7 +993,6 @@ h6 {
   border-radius: 0.5rem;
   overflow: hidden;
   margin: 0 auto;
-  
   max-width: 1200px; 
   width: 100%;
 }
