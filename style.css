@@ -557,9 +557,10 @@ h6 {
 }
 
 .map-container {
-  height: 400px;
+  height: auto;
   border-radius: 0.5rem;
   overflow: hidden;
+  margin: 0 auto;
 }
 
 .contact-cta {
